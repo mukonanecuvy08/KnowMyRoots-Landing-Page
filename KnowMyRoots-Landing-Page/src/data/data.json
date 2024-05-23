@@ -1,0 +1,52 @@
+{
+  "Header": {
+    "title": "KnowMyRoots",
+    "paragraph": "At KnowMyRoots, we believe that understanding your past is the key to embracing your future. Our mission is to help you uncover the rich tapestry of your ancestry, explore the stories of your ancestors, and connect with your heritage like never before."
+  },
+  "About": {
+    "paragraph": "we believe that understanding and celebrating cultural diversity is key to fostering a more inclusive and harmonious world. Our mission is to inspire curiosity and appreciation for the rich tapestry of cultures that make up our global community.",
+    "Why": [
+      "Embrace the beauty of every culture",
+      "Discover the world's diverse tapestry",
+      "Inspiring curiosity, fostering inclusion.",
+      "Celebrate the richness of global traditions."
+    ],
+    "Why2": [
+      "Unity in diversity, harmony in understanding.",
+      "Explore the world's cultural wealth.",
+      "Appreciate the stories behind every culture.",
+      "Cultivating respect through cultural awareness."
+    ]
+  },
+  
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+  
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    
+    
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  
+  
+  "Contact": {
+    "address": "2 Aubrey Matlakala St, Soshanguve Pretoria ",
+    "phone": "+0 000 000 0",
+    "email": "info@knowmyroots.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
